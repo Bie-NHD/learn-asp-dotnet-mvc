@@ -1,0 +1,30 @@
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\bin\Debug\net6.0\appsettings.Development.json
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\bin\Debug\net6.0\appsettings.json
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\bin\Debug\net6.0\WebApplication (Net Core).staticwebassets.runtime.json
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\bin\Debug\net6.0\WebApplication (Net Core).exe
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\bin\Debug\net6.0\WebApplication (Net Core).deps.json
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\bin\Debug\net6.0\WebApplication (Net Core).runtimeconfig.json
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\bin\Debug\net6.0\WebApplication (Net Core).dll
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\bin\Debug\net6.0\WebApplication (Net Core).pdb
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\WebApplication (Net Core).GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\WebApplication (Net Core).AssemblyInfoInputs.cache
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\WebApplication (Net Core).AssemblyInfo.cs
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\WebApplication (Net Core).csproj.CoreCompileInputs.cache
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\WebApplication (Net Core).MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\WebApplication (Net Core).RazorAssemblyInfo.cache
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\WebApplication (Net Core).RazorAssemblyInfo.cs
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication (Net Core).Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication (Net Core).props
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication (Net Core).props
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication (Net Core).props
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\staticwebassets.build.json
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\staticwebassets.development.json
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\scopedcss\bundle\WebApplication (Net Core).styles.css
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication (Net Core).bundle.scp.css
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\WebApplication (Net Core).dll
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\refint\WebApplication (Net Core).dll
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\WebApplication (Net Core).pdb
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\WebApplication (Net Core).genruntimeconfig.cache
+D:\Coding\WebApplication (Net Core)\WebApplication (Net Core)\obj\Debug\net6.0\ref\WebApplication (Net Core).dll
