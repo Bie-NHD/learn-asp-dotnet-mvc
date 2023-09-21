@@ -28,3 +28,33 @@ D:\Coding\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6
 D:\Coding\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\WebApplication2 (.NET core).pdb
 D:\Coding\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\WebApplication2 (.NET core).genruntimeconfig.cache
 D:\Coding\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\ref\WebApplication2 (.NET core).dll
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\bin\Debug\net6.0\appsettings.Development.json
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\bin\Debug\net6.0\appsettings.json
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\bin\Debug\net6.0\WebApplication2 (.NET core).staticwebassets.runtime.json
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\bin\Debug\net6.0\WebApplication2 (.NET core).exe
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\bin\Debug\net6.0\WebApplication2 (.NET core).deps.json
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\bin\Debug\net6.0\WebApplication2 (.NET core).runtimeconfig.json
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\bin\Debug\net6.0\WebApplication2 (.NET core).dll
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\bin\Debug\net6.0\WebApplication2 (.NET core).pdb
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\WebApplication2 (.NET core).GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\WebApplication2 (.NET core).AssemblyInfoInputs.cache
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\WebApplication2 (.NET core).AssemblyInfo.cs
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\WebApplication2 (.NET core).csproj.CoreCompileInputs.cache
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\WebApplication2 (.NET core).MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\WebApplication2 (.NET core).RazorAssemblyInfo.cache
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\WebApplication2 (.NET core).RazorAssemblyInfo.cs
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication2 (.NET core).Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication2 (.NET core).props
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2 (.NET core).props
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication2 (.NET core).props
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\staticwebassets.build.json
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\staticwebassets.development.json
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\scopedcss\bundle\WebApplication2 (.NET core).styles.css
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication2 (.NET core).bundle.scp.css
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\WebApplication2 (.NET core).dll
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\refint\WebApplication2 (.NET core).dll
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\WebApplication2 (.NET core).pdb
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\WebApplication2 (.NET core).genruntimeconfig.cache
+D:\Coding\learn-asp-dotnet-mvc\WebApplication2 (.NET core)\WebApplication2 (.NET core)\obj\Debug\net6.0\ref\WebApplication2 (.NET core).dll

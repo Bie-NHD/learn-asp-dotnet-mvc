@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\WebApplication2 (.NET core)\\WebApplication2 (.NET core)\\WebApplication2 (.NET core).csproj": {}
+    "D:\\Coding\\learn-asp-dotnet-mvc\\WebApplication2 (.NET core)\\WebApplication2 (.NET core)\\WebApplication2 (.NET core).csproj": {}
   },
   "projects": {
-    "D:\\Coding\\WebApplication2 (.NET core)\\WebApplication2 (.NET core)\\WebApplication2 (.NET core).csproj": {
+    "D:\\Coding\\learn-asp-dotnet-mvc\\WebApplication2 (.NET core)\\WebApplication2 (.NET core)\\WebApplication2 (.NET core).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\WebApplication2 (.NET core)\\WebApplication2 (.NET core)\\WebApplication2 (.NET core).csproj",
+        "projectUniqueName": "D:\\Coding\\learn-asp-dotnet-mvc\\WebApplication2 (.NET core)\\WebApplication2 (.NET core)\\WebApplication2 (.NET core).csproj",
         "projectName": "WebApplication2 (.NET core)",
-        "projectPath": "D:\\Coding\\WebApplication2 (.NET core)\\WebApplication2 (.NET core)\\WebApplication2 (.NET core).csproj",
+        "projectPath": "D:\\Coding\\learn-asp-dotnet-mvc\\WebApplication2 (.NET core)\\WebApplication2 (.NET core)\\WebApplication2 (.NET core).csproj",
         "packagesPath": "C:\\Users\\bie_N\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\WebApplication2 (.NET core)\\WebApplication2 (.NET core)\\obj\\",
+        "outputPath": "D:\\Coding\\learn-asp-dotnet-mvc\\WebApplication2 (.NET core)\\WebApplication2 (.NET core)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bie_N\\AppData\\Roaming\\NuGet\\NuGet.Config",
