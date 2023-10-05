@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YOCA9pFNDUVQOhKXTGvTaPf9GtdEhOBsW+lL6S4Y6+UUy/gxNnIbQRsmH6Ix84lRvPFxpg1xQI1Oyky4pbo1Dg==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\learn-asp-dotnet-mvc\\BookApplication\\BookApplication\\BookApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bie_N\\.nuget\\packages\\jetbrains.annotations\\2022.3.1\\jetbrains.annotations.2022.3.1.nupkg.sha512",
+    "C:\\Users\\bie_N\\.nuget\\packages\\x.pagedlist\\8.4.7\\x.pagedlist.8.4.7.nupkg.sha512",
+    "C:\\Users\\bie_N\\.nuget\\packages\\x.pagedlist.mvc.core\\8.4.7\\x.pagedlist.mvc.core.8.4.7.nupkg.sha512"
+  ],
+  "logs": []
+}
