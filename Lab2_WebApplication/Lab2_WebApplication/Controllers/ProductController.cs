@@ -1,13 +1,15 @@
 ﻿using Lab2_WebApplication.Models;
+using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 using System.Reflection.Metadata;
 using System.Text;
 using System.Xml.Linq;
+using System.IO;
 
 namespace Lab2_WebApplication.Controllers
 {
-    public class ProductController : Controller
+    public class ProductsController : Controller
     {
         public IActionResult Index()
         {
@@ -140,5 +142,38 @@ namespace Lab2_WebApplication.Controllers
             StatusCode = 200
         });
     }
+        // Cả ba kiểu FileContentResult,FileStreamResult,FilePathResult đều cho phép trình 
+        // duyệt mở hộp thoại lưu file và tải file về
+ // phương thức trả về có 3 tham số
+ // tham số thứ nhất đối với kiểu FileContentResult là một mảng byte của file
+ // tham số thứ nhất đối với kiểu FileStreamResult là một FileStream
+ // tham sô thứ nhất đổi với kiểu PathFileResult là một đường dẫn file
+ // tham số thứ hai chỉ ra loại định dạng của file
+ // tham số thứ ba tên file mà trình duyệt sẽ tải về
+ public FileContentResult TestFileContentResult()
+        {
+            //string _contentRootPath = AppDomain.CurrentDomain.GetData("ContentRootPath") as string;
+            //byte[] fileBytes = System.IO.File.ReadAllBytes(Path.Combine(_contentRootPath, @"~/Content/demovideo.mp4"));
+            byte[] fileBytes = System.IO.File.ReadAllBytes(@"~/Content/demovideo.mp4");
+            string fileName = "demovideo.mp4";
+            //return File(fileBytes, System.Net.Mime.MediaTypeNames.Application.Octet, fileName);
+            return File(fileBytes, "video/mp4", fileName);
+        }
+        public FileStreamResult TestFileStreamResult()
+        {
+            //string _contentRootPath = AppDomain.CurrentDomain.GetData("ContentRootPath") as string;
+            //string pathFile = Path.Combine(_contentRootPath, @"/Content/vonsong.docx"); //Server.MapPath("~/Content/vonsong.docx");
+            string pathFile = @"~/Content/vonsong.docx"; //Server.MapPath("~/Content/vonsong.docx");
+            string fileName = "vonsong.docx";
+            return File(new FileStream(pathFile, FileMode.Open), "text/doc", fileName);
+        }
+        public FileResult TestFilePathResult()
+        {
+            //string _contentRootPath = AppDomain.CurrentDomain.GetData("ContentRootPath") as string;
+            //string pathFile = Path.Combine(_contentRootPath,  @"/Contentvonsong.docx"); //Server.MapPath("~/Content/vonsong.docx");
+            string pathFile = @"~/Content/vonsong.docx";
+            string fileName = "vonsong.docx";
+            return File(pathFile, "text/doc", fileName);
+        }
     }
 }

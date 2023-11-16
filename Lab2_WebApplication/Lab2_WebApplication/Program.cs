@@ -1,3 +1,5 @@
+using System.Web.Mvc;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -18,10 +20,16 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+// Setting path data
+AppDomain.CurrentDomain.SetData("ContentRootPath", builder.Environment.ContentRootPath);
+AppDomain.CurrentDomain.SetData("WebRootPath", builder.Environment.WebRootPath);
+
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Product}/{action=Index}/{id?}"
+    //defaults: new { controller = "Product", action = "Index", id = UrlParameter.Optional }
+    );
 
 app.Run();
