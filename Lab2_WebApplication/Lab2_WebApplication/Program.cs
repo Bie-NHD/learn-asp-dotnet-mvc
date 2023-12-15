@@ -29,7 +29,7 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Product}/{action=Index}/{id?}"
-    //defaults: new { controller = "Product", action = "Index", id = UrlParameter.Optional }
+    //defaults: new { controller = "Product", action = "Index", id = UrlParameter.Optional}
     );
 
 app.Run();
